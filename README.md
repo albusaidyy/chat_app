@@ -20,7 +20,10 @@ Below are sample images of the app.
 <br>
   
 <kbd> 
-
+<img src="https://github.com/albusaidyy/chat_app/blob/master/assets/screenshots/2.png" alt="Screenshot 2" width="300" >
+</kbd>
+<br>
+<br>
 
 <kbd> 
 <img src="https://github.com/albusaidyy/chat_app/blob/master/assets/screenshots/3.png" alt="Screenshot 3" width="300" >
@@ -35,7 +38,13 @@ Below are sample images of the app.
 <br>
 <br>
 
-More can be found [here](https://github.com/albusaidyy/chat_app/blob/master/assets/screenshots).
+
+<kbd> 
+<img src="https://github.com/albusaidyy/chat_app/blob/master/assets/screenshots/5.png" alt="Screenshot 5" width="300" >
+</kbd>
+<br>
+<br>
+
 
 
 
