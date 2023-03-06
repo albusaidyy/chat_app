@@ -7,7 +7,7 @@ This is a simple chat Application made with Flutter
 
 ## Installation
 
-Use the [apk](https://github.com/albusaidyy/chat_app/blob/master/apk/app-release.apk) to install Chat App.
+Clone the Repo and build the project
 
 ## Screenshots
 
