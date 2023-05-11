@@ -82,7 +82,7 @@ class _AuthFormState extends State<AuthForm> {
                       ),
                       validator: (value) {
                         if (value!.isEmpty || !value.contains('@')) {
-                          return 'Enter a valid Meail Address';
+                          return 'Enter a valid Email Address';
                         }
                         return null;
                       },
@@ -95,7 +95,7 @@ class _AuthFormState extends State<AuthForm> {
                             const InputDecoration(labelText: 'Username'),
                         validator: (value) {
                           if (value!.isEmpty || value.length < 4) {
-                            return 'Passsword must be atleast 4 characters long.';
+                            return 'Password must be atleast 4 characters long.';
                           }
                           return null;
                         },
@@ -107,7 +107,7 @@ class _AuthFormState extends State<AuthForm> {
                       obscureText: true,
                       validator: (value) {
                         if (value!.isEmpty || value.length < 6) {
-                          return 'Passsword must be atleast 6 characters long.';
+                          return 'Password must be atleast 6 characters long.';
                         }
                         return null;
                       },
