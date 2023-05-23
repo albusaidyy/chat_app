@@ -4,6 +4,10 @@
 # Chat App
 This is a simple chat Application made with Flutter
 
+* Firebase Authentication
+* Firebase Firestore
+* Firebae Storage
+
 
 ## Installation
 
